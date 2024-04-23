@@ -7,7 +7,7 @@ function ColourMixTest() {
             <h3>1. Colour Mix</h3>
             <p>colour_mix('green', 'red'): {colour_mix('green', 'red')}</p>
             <p>colour_mix('blue', 'blue'): {colour_mix('blue', 'blue')}</p>
-            <p>colour_mix('red', 'green'): {colour_mix('red', 'green')}</p>
+            <p>colour_mix('red', 'blue'): {colour_mix('red', 'blue')}</p>
         </div>
     );
 }
