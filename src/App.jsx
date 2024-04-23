@@ -1,12 +1,14 @@
-import React from 'react';
-import TestComponent from './components.jsx';
+
+import { ColourMixTest, LargestProductTest, DayOfWeekTest, PayRaiseTest, LeapYearTest, TestComponent } from './components.jsx';
 
 function App() {
   return (
     <div>
-        <TestComponent />    
+      <h1>My App</h1>
+      <TestComponent />
     </div>
   );
 }
 
 export default App;
+
